@@ -1,15 +1,15 @@
 @media(max-width:1250px){
     .input{
-        width: 380px;
+        width: 450px;
     }
     .btn{
         width: 110px;
-        /* font-size: 10px; */
+        margin-left: 5px;
     }
 }
 @media(max-width:1000px){
     .input{
-        width: 320px;
+        width: 360px;
     }
     .btn{
         width: 90px;
@@ -19,47 +19,23 @@
         font-size: 25px;
     }
 }
-@media(max-width:830px){
+@media(max-width:500px){
     .input{
-        width: 400px;
+        width: 150px;
     }
     .btn{
-        width: 170px;
-        margin-top: 10px;
-       
-    }
-}
-@media(max-width:700px){
-    .input{
-        width: 300px;
-        /* padding: 7px; */
-    }
-    .btn{
-        width: 120px;
-        margin-top: 10px;
-       
+        width: 70px;
+        /* font-size: 10px; */
     }
     .head{
-        font-size: 20px;
+        font-size: 22px;
     }
     .text-c{
         font-size: 50px;
+        padding-left: 3px;
     }
     .date-txt{
-        font-size: 11px;
+        font-size: 12px;
     }
 }
-@media(max-width:500px){
-    .input{
-        width: 200px;
-        /* padding: 7px; */
-    }
-    .btn{
-        width: 100px;
-        margin-top: 10px;
-       
-    }
-    .text-c{
-        font-size: 40px;
-    }
-}
+
