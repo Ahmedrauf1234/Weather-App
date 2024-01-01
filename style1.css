@@ -1,0 +1,65 @@
+@media(max-width:1250px){
+    .input{
+        width: 380px;
+    }
+    .btn{
+        width: 110px;
+        /* font-size: 10px; */
+    }
+}
+@media(max-width:1000px){
+    .input{
+        width: 320px;
+    }
+    .btn{
+        width: 90px;
+        /* font-size: 10px; */
+    }
+    .head{
+        font-size: 25px;
+    }
+}
+@media(max-width:830px){
+    .input{
+        width: 400px;
+    }
+    .btn{
+        width: 170px;
+        margin-top: 10px;
+       
+    }
+}
+@media(max-width:700px){
+    .input{
+        width: 300px;
+        /* padding: 7px; */
+    }
+    .btn{
+        width: 120px;
+        margin-top: 10px;
+       
+    }
+    .head{
+        font-size: 20px;
+    }
+    .text-c{
+        font-size: 50px;
+    }
+    .date-txt{
+        font-size: 11px;
+    }
+}
+@media(max-width:500px){
+    .input{
+        width: 200px;
+        /* padding: 7px; */
+    }
+    .btn{
+        width: 100px;
+        margin-top: 10px;
+       
+    }
+    .text-c{
+        font-size: 40px;
+    }
+}
