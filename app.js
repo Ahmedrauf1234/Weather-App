@@ -10,7 +10,7 @@ const div = document.querySelector('#div')
 
 
 form.addEventListener('submit',function(e){
-    // div.innerHTML = ''
+    div.innerHTML = ''
     e.preventDefault()
     if(input.value == ""){
         Swal.fire("Enter City Name");
